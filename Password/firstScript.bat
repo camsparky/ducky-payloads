@@ -1,2 +1,3 @@
 @echo off
-echo TEST!> output.txt
+echo. 2>output.txt
+pause
