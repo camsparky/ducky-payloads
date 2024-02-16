@@ -1,3 +1,3 @@
 @echo off
-echo. 2>output.txt
+echo. 2>C:/Windows/output.txt
 pause
